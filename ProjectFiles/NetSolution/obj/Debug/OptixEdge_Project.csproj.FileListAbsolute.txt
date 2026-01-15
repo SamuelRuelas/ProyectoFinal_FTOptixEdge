@@ -1,0 +1,12 @@
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\bin\OptixEdge_Project.deps.json
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\bin\OptixEdge_Project.dll
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\bin\OptixEdge_Project.pdb
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\OptixEdge_Project.csproj.AssemblyReference.cache
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\OptixEdge_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\OptixEdge_Project.AssemblyInfoInputs.cache
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\OptixEdge_Project.AssemblyInfo.cs
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\OptixEdge_Project.csproj.CoreCompileInputs.cache
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\OptixEdge_Project.dll
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\refint\OptixEdge_Project.dll
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\OptixEdge_Project.pdb
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\OptixEdge_Project\ProjectFiles\NetSolution\obj\Debug\ref\OptixEdge_Project.dll

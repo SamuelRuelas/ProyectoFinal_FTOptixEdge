@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>OptixEdge_ProjectUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixEdge_Project" guid="01a7e8933afd7c95fe894b0859308138" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixEdge_Project" guid="167e839fde8c79a39560db93fe45890a" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixEdge_Project" guid="20bf9f80c34a7bb6c61ef2ca44e79e39" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="OptixEdge_Project" guid="bf80e6f46ab3417d2c5966686a2e6a18" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>
